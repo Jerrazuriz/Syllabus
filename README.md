@@ -18,6 +18,17 @@
 Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.cl/).
 
 
+## Calendario 
+
+<details open>
+<summary>Capítulo 0: Introducción</summary>
+
+| Instancia   | Fecha        | Recursos |
+| :-:         | :-:          | :-:      |
+| Cátedra     | Lunes 05/08  | Slides - Ejercicio - Ticket |
+<!--| Ayudantía   | Jueves 14/03 |  [Video](https://youtu.be/MkZD-6zPsOQ)| -->
+</details>
+
 ## Recorrecciones
 
 * El plazo para solicitar recorrecciones vence una semana después de que la nota de la evaluación es publicada.
